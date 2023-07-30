@@ -5,7 +5,7 @@
 ### BOJ ###
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=roeyr)](https://solved.ac/profile/roeyr)
 
-### codeforces ###
+### Codeforces ###
 [![CodeForces Profile](https://cf.leed.at?id=roeyr)](https://codeforces.com/profile/roeyr)
 
 ## 📜Certification ##
