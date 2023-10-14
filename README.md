@@ -8,9 +8,13 @@
 ### Codeforces ###
 [![CodeForces Profile](https://cf.leed.at?id=roeyr)](https://codeforces.com/profile/roeyr)
 
-## 📜Certification ##
-- 정보처리기사 (취득일 : 2023-06-09)
-- SQLD (취득일 : 2023-07-07)
+## 📜Awards / Certificates ##
+- 2023.08     삼성 청년 SW 아카데미 공통프로젝트 우수상  (삼성전자주식회사)
+- 2023.08     Softeer HSAT Lv3
+- 2023.07     SQLD
+- 2023.06     정보처리기사
+- 2023.05     삼성 청년 SW 아카데미 코딩과정 성적 우수상
+- 2023.04     삼성 SW 역량테스트 B형
 <!--
 **1lia/1lia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
