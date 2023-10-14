@@ -9,7 +9,7 @@
 [![CodeForces Profile](https://cf.leed.at?id=roeyr)](https://codeforces.com/profile/roeyr)
 
 ## 📜Awards / Certificates ##
-- 2023.08     삼성 청년 SW 아카데미 공통프로젝트 우수상  (삼성전자주식회사)
+- 2023.08     삼성 청년 SW 아카데미 공통프로젝트 우수상
 - 2023.08     Softeer HSAT Lv3
 - 2023.07     SQLD
 - 2023.06     정보처리기사
